@@ -48,7 +48,7 @@ custom_params = {"axes.spines.right": False, "axes.spines.top": False}
 sns.set_theme(style="ticks", rc=custom_params)
 
 sns.set_style('whitegrid')
-
+print("Thanks for using me!!!")
 print("All Modules Initialized 🚀")
 
 
